@@ -14,7 +14,7 @@ function Layout(){
                 <div><Link to="/Login">로그인</Link></div>
                 <div><Link to="/Login">멤버십</Link></div>
                 <div><Link to="/Login">고객센터</Link></div>
-                <div><Link to="/Login">회원가입</Link></div>
+                <div><Link to="/Login">회원가입.</Link></div>
             </header>
             
             <Outlet/>
