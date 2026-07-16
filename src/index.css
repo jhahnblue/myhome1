@@ -1,0 +1,28 @@
+.logo-image{
+  width:100px;
+  height:100px;
+}
+
+
+header{
+  display: flex;
+  background-color: green;
+}
+
+
+a:link, a:visited, a:hover{
+  text-decoration: none;
+  color: blue;
+}
+
+.carousel-img{
+
+    height:500px;
+    margin:0 auto;
+    display:block;
+}
+
+
+
+
+
